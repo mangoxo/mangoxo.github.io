@@ -1,0 +1,130 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.show1 {
+    position: absolute;
+    width: 1518px;
+    height: 800px;
+    border: 0px transparent solid;
+    margin-left: -1px;
+    margin-top: -1px;
+}
+.show2 {
+    position: absolute;
+    width: 1518px;
+    height: 50px;
+    border: 0px transparent solid;
+    text-align: center;
+    line-height: 50px;
+    background-color: #717584;
+    opacity: 0.7;
+   
+}
+.keep1 {
+    position: relative;
+    width: 600px;
+    height: 50px;
+    float: left;
+    margin-left:280px;
+}
+.keep2 {
+    position: relative;
+    width: 600px;
+    height: 50px;
+    float: left;
+    
+}
+.nav1 a:hover {
+    text-decoration: none;
+    background-color: #a6b8d2;
+}
+.show2 a {
+    color:black;
+    display: block;
+    line-height: 50px;
+   
+    text-decoration: none;
+    
+}
+.nav1 {
+    float: left;
+}
+.show3 {
+    width: 1516px;
+    height: 150px;
+    border: 1px transparent solid;
+}
+.show4 {
+    width: 940px;
+    height: 40px;
+    border: 1px transparent solid;
+    margin-left: 280px;
+}
+.show4 ul li{position:relative;
+    float:left;
+    margin-left:15px;
+    margin-top:-12px;
+    list-style-type:none;
+}
+    .show4 a:hover {
+        display: block;
+        line-height: 40px;
+        color: lightcyan;
+        background-color: red;
+    }
+.show5 {
+    width: 940px;
+    height: 250px;
+    border: 1px transparent solid;
+    margin-left: 280px;
+    margin-top:2px;
+}
+.show5 img{
+    float:left;
+    margin-left:20px;
+    margin-top:20px;
+}
+.show6 {
+    width: 940px;
+    height: 350px;
+    border: 1px transparent solid;
+    margin-left: 280px;
+    margin-top: 5px;
+}
+.nav2 {
+    width: 600px;
+    height: 350px;
+    border: 1px transparent solid;
+    float: left;
+}
+.nav3 {
+    width: 300px;
+    height: 350px;
+    border: 1px transparent solid;
+    float: left;
+    margin-left: 36px;
+}
+.nav2 img{
+          float:left;
+          margin-top:20px;
+          margin-left:18px;
+}
+.keep3 {
+    width: 600px;
+    height: 50px;
+    border: 1px transparent solid;
+    float: left;
+}
+.keep4 {
+    width: 600px;
+    height: 300px;
+    border: 1px transparent solid;
+    float: left;
+}
+.nav3 ul li{
+    list-style-type: none;
+    margin-top:10px;
+    margin-left:-20px;
+}
