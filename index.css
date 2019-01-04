@@ -1,0 +1,14 @@
+
+body {margin:0;
+      padding:0;
+}
+.show1
+{
+	background-color:#f3f9fb;
+
+}
+.show2{width:850px;
+height:723px;
+border:1 red solid;
+	background-color:#474f85;
+	margin:0 auto;}
